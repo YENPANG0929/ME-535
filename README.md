@@ -2,7 +2,6 @@
 
 ## Computational Techniques In Mechanical Engineering
 
-Numerical computation covering:
 1. Linear Systems
 2. Interpolation and curve fitting
 3. Numerical differentiation and integration
